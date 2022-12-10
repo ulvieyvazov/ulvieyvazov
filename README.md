@@ -1,6 +1,4 @@
 ### Hi to you 👋
-### I’m Ulvi 
-### software developer
 
 
 <!--
