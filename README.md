@@ -1,6 +1,5 @@
--Hi to you 👋
--I’m Ulvi 
--Software developer 
+Hi to you 👋
+
 
 <!--
 **ulvieyvazov/ulvieyvazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
