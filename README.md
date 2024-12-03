@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ulvieyvazov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ulvieyvazov" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ulvi̇ eyvazov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ülvi̇ eyvazov" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ulvi̇ eyvazov](https://www.linkedin.com/feed/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ülvi̇ eyvazov" height="30" width="40" /></a>
 <a href="https://instagram.com/__ulvi_eyvazov__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ulvi_eyvazov__" height="30" width="40" /></a>
 </p>
 
