@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ulvi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvieyvazov&label=Profile%20views&color=0e75b6&style=flat" alt="ulvieyvazov" /> </p>
-<img align="right" alt="Programmer" width="420" height="280" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9527gbh2346akupoz6e6w3jldnumw7y1u9r3mvboqfl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Programmer"  width="420" height="280" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9527gbh2346akupoz6e6w3jldnumw7y1u9r3mvboqfl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 - 🌱 I’m currently learning **full stack**
